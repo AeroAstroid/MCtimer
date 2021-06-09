@@ -1,15 +1,26 @@
 {
-  "pause": "`",
-  "reset_start": "<Alt_L>",
-  "exit": "~",
-  "auto_start": "true",
-  "bg_color": "black",
-  "igt_color": "lime",
-  "rta_color": "red",
-  "linux_saves": "~/.minecraft/saves/",
-  "mac_saves": "~/Library/Application Support/minecraft/saves/",
-  "windows_saves": "~\\AppData\\Roaming\\.minecraft\\saves\\",
-  "rta_update": "25",
-  "window_pos": "+0+0",
-  "borderless": "true"
+    "pause": "<Escape>",
+    "reset_start": "{",
+    "exit": "}",
+
+    "auto_start": "true",
+
+    "bg_color": "#000227",
+    "lt_color": "#9999ee",
+    "rta_color": "#6060aa",
+    "igt_color": "#6060aa",
+
+    "text_font": "Consolas",
+    "numbers_font": "Trebuchet MS",
+
+    "linux_saves": "~/.minecraft/saves/",
+    "mac_saves": "~/Library/Application Support/minecraft/saves/",
+    "windows_saves": "~\\AppData\\Roaming\\.minecraft\\saves\\",
+
+    "rta_update": "25",
+
+    "window_pos": "250x170+0+0",
+    "borderless": "true",
+
+    "attempts": "0"
 }
